@@ -1,5 +1,5 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Aquabot-AM",
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
   "main": "/aquabot/bot.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/RazorAMG12/AQUABOT.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "AMG official",
+  "developer": "AMG",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/RazorAMG12/AQUABOT/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/RazorAMG12/AQUABOT",
   "dependencies": {
      "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
