@@ -33,17 +33,17 @@
             "required": true
              },
              "REMOVE_BG_API_KEY": {
-            "description": "",
+            "description": "PdLxCvtmU5E5Qq1kxccFy4Sz",
             "required": true
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "AMG LAB" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94778986691" ,
             "required": true
              },
        
@@ -60,7 +60,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://www.instagram.com/m_a_d_us_h_a_n_7/" ,
             "required": true
       },
      "URL_2NAME": {
@@ -70,12 +70,12 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://github.com/RazorAMG12" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 2K23" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 2K23" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -151,12 +151,12 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
-            "required": false
+            "value": "94786691916" ,
+            "required": true
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
